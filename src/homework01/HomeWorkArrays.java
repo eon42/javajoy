@@ -1,3 +1,5 @@
+package homework01;
+
 public class HomeWorkArrays
 {
     public static final int MAX_VALUE = 100;
