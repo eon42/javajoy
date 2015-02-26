@@ -1,4 +1,4 @@
-package homework01;
+package net.javajoy.jps.homework.w1;
 
 public class HomeWorkArrays
 {
